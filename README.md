@@ -1,1 +1,1 @@
-# SimpleGraphQL Server with Node and Express
+# Simple GraphQL Server with Node and Express
